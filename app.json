@@ -1,0 +1,19 @@
+{
+  "appKey": "wEUeAXwLpBWqarjX7wKxty3g9D4KXiM4",
+  "appSecret": "kD4C2m3YMPyW5zM9BpbgiWIhlWOkfFAG",
+  "projectId": "5d24303c0a5a048a6ea340977177d263",
+  "id": 249,
+  "name": "IMS",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "库存管理系统",
+  "git": {
+    "url": "https://github.com/Alex9a/IMS.git",
+    "isPrivate": 0,
+    "username": "alex9a",
+    "password": "Aa@445566"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
